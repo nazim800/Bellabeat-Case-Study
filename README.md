@@ -22,5 +22,5 @@ The main tools I used are Microsoft Excel for merging table at ease, SQL for dat
 
 
 
-A more detailed breakdown of the case study scenario is provided below, followed by my ###full report.
+A more detailed breakdown of the case study scenario is provided below, followed by my full report.
 
