@@ -11,8 +11,13 @@ To answer the key business questions, I will follow the Google Data Analytics pr
 The main tools I used are Microsoft Excel for merging table at ease, SQL for data processing and Power BI for data visualization.
 
 🔹 Quick Links:
+
 ✔ Data Source: Fitbit smart device dataset
+
 ✔ SQL Queries 
+
 ✔ Data Visualizations: Power BI
+
+
 A more detailed breakdown of the case study scenario is provided below, followed by my full report.
 
