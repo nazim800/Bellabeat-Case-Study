@@ -18,7 +18,7 @@ The main tools I used are Microsoft Excel for merging table at ease, SQL for dat
 ✔ SQL Queries: [ Data Cleaning and Manipulation](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Data%20Cleaning%20and%20Manipulation)
 
 
-✔ Data Visualizations: [Power BI](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Data%20Cleaning%20and%20Manipulation)
+✔ Data Visualizations: [Power BI](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Data%20Cleaning%20and%20Manipulation](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Bellabeat%20Final%20Visualization.pdf)
 
 
 
