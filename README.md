@@ -22,5 +22,6 @@ The main tools I used are Microsoft Excel for merging table at ease, SQL for dat
 
 
 
-A more detailed breakdown of the case study scenario is provided by my [full report](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/BellaBeat%20Case%20Study%20Report.pdf).
+A more detailed breakdown of the case study scenario is provided by my [View PDF](https://github.com/nazim800/Bellabeat-Case-Study/raw/main/BellaBeat%20Case%20Study%20Report.pdf).
+
 
