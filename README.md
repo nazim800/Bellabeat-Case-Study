@@ -151,6 +151,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 #### **📍 Trend 2: Higher Activity Leads to Better Sleep**
 - Users **with more than 5,000 steps/day** have better sleep patterns.
 - **Low activity (<5,000 steps/day) = inconsistent sleep**.
+  
   <img width="470" alt="image" src="https://github.com/user-attachments/assets/07acbf19-5dcf-4760-9bcc-30c983f7e3ab" />
 
 ✅ **Insights:**
@@ -159,6 +160,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 
 #### **📍 Trend 3: High Heart Rate Correlates with Intense Activity Periods**
 - **Morning & evening heart rate spikes** confirm **workout engagement**.
+  
   <img width="470" alt="image" src="https://github.com/user-attachments/assets/f3ddd282-c408-459e-8356-657e83891c97" />
 
 ✅ **Insights:**
