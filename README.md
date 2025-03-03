@@ -116,7 +116,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 ### **🔍 Data Cleaning & Manipulation Steps in MySQL:**
 #### **1. Check for Missing Values and Handle Them**
 - Used SQL queries to **identify missing values**.
-- <img width="470" alt="image" src="https://github.com/user-attachments/assets/79bebfe5-08db-4a1d-9537-03ab109cd091" /
+- <img width="470" alt="image" src="https://github.com/user-attachments/assets/79bebfe5-08db-4a1d-9537-03ab109cd091" />
 
 
 #### **2. Remove Duplicates**
