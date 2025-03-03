@@ -1,5 +1,5 @@
 # 📊 Bellabeat Case Study using Microsoft Excel, SQL, and Power BI  
-**How Can a Wellness Technology Company Play It Smart?**  
+* *How Can a Wellness Technology Company Play It Smart?*
 
 ![Bellabeat logo](https://github.com/user-attachments/assets/8b00a978-b3f7-4685-8f19-29c80277a9e3)  
 
