@@ -118,13 +118,15 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 ### **🔍 Data Cleaning & Manipulation Steps in MySQL:**
 #### **1. Check for Missing Values and Handle Them**
 - Used SQL queries to **identify missing values**.
+  
   <img width="470" alt="image" src="https://github.com/user-attachments/assets/79bebfe5-08db-4a1d-9537-03ab109cd091" />
 
 
 #### **2. Remove Duplicates**
 - Removed duplicates to ensure accurate analysis.
-  <img width="302" alt="image" src="https://github.com/user-attachments/assets/545b3b5c-4667-4996-b9bb-a609b80d2689" />
-  <img width="266" alt="image" src="https://github.com/user-attachments/assets/b3ec1e65-9dfa-4d55-936f-fa32bc35ec5b" />
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/545b3b5c-4667-4996-b9bb-a609b80d2689" />
+
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/b3ec1e65-9dfa-4d55-936f-fa32bc35ec5b" />
 
 
 ✔ **Summary of Data Cleaning Process:**
@@ -139,6 +141,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 #### **📍 Trend 1: Users Are Most Active in the Morning & Evening**
 - **Peak activity**: **7-9 AM** & **6-9 PM**.
 - **Afternoon dip**: Users are less active during working hours.
+
   <img width="470" alt="image" src="https://github.com/user-attachments/assets/2b405e59-332b-47f1-a55c-04e769ff0668" />
 
 ✅ **Insights:**
