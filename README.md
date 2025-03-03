@@ -105,8 +105,10 @@ Bellabeat wants to use **smart device data** to gain insights into how customers
 ---
 ## **Phase 3️⃣: Process – Cleaning and Preparing Data for Analysis**
 
-### **🛠 Tools Used:**
-- **Microsoft Excel** – Initial merging of tables.
+##Tools Used
+To merge easily I first used Microsoft Excel. Then, for data cleaning and transformation, MySQL was chosen due to its ability to handle large datasets efficiently and perform complex data manipulations using SQL queries. The cleaned data will later be used for analysis and visualization in Power BI.
+
+##Merging Tables in Microsoft Excel
 <img width="340" alt="image" src="https://github.com/user-attachments/assets/71898dfc-958a-4eba-961d-3345e1967f42" />
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/ca07f6ed-552c-4f56-8a05-d42de05ef061" />
 
