@@ -22,11 +22,11 @@ To answer the key business questions, I follow the **Google Data Analytics** pro
 
 📂 **Data Source**: [Fitbit Smart Device Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)  
 
-📝 **SQL Queries**: [Data Cleaning and Manipulation](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Data%20Cleaning%20and%20Manipulation)  
+📝 **SQL Queries**: [Data Cleaning and Manipulation](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Data%20Cleaning%20and%20Manipulation.sql)  
 
-📊 **Data Visualizations**: [Power BI Report](https://github.com/nazim800/Bellabeat-Case-Study/blob/main/Bellabeat%20Final%20Visualization.pdf)  
+📊 **Data Visualizations**: [Power BI Report](https://drive.google.com/file/d/1nevMWEhq7AGaLfv3eZYRwqd0wYSeRvi-/view?usp=share_link)  
 
-📄 **Detailed Case Study Report**: [View PDF](https://github.com/nazim800/Bellabeat-Case-Study/raw/main/BellaBeat%20Case%20Study%20Report.pdf)  
+📄 **Detailed Case Study Report**: [View PDF](https://drive.google.com/file/d/11AtFzAtsswl27iWd4SYhTV9FqDriqfee/view?usp=share_link)  
 
 ---
 
