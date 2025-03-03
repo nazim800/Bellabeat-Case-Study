@@ -112,8 +112,6 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 <img width="340" alt="image" src="https://github.com/user-attachments/assets/71898dfc-958a-4eba-961d-3345e1967f42" />
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/ca07f6ed-552c-4f56-8a05-d42de05ef061" />
 
-- **MySQL** – Data cleaning & transformation.
-- **Power BI** – Analysis & visualization.
 
 ### **🔍 Data Cleaning & Manipulation Steps in MySQL:**
 #### **1. Check for Missing Values and Handle Them**
