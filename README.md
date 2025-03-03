@@ -109,20 +109,22 @@ Bellabeat wants to use **smart device data** to gain insights into how customers
 To merge easily, I first used Microsoft Excel. Then, for data cleaning and transformation, MySQL was chosen due to its ability to handle large datasets efficiently and perform complex data manipulations using SQL queries. The cleaned data will later be used for analysis and visualization in Power BI.  
 
 ## Merging Tables in Microsoft Excel  
+
 <img width="340" alt="image" src="https://github.com/user-attachments/assets/71898dfc-958a-4eba-961d-3345e1967f42" />
+
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/ca07f6ed-552c-4f56-8a05-d42de05ef061" />
 
 
 ### **🔍 Data Cleaning & Manipulation Steps in MySQL:**
 #### **1. Check for Missing Values and Handle Them**
 - Used SQL queries to **identify missing values**.
-- <img width="470" alt="image" src="https://github.com/user-attachments/assets/79bebfe5-08db-4a1d-9537-03ab109cd091" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/79bebfe5-08db-4a1d-9537-03ab109cd091" />
 
 
 #### **2. Remove Duplicates**
 - Removed duplicates to ensure accurate analysis.
-- <img width="302" alt="image" src="https://github.com/user-attachments/assets/545b3b5c-4667-4996-b9bb-a609b80d2689" />
-- <img width="266" alt="image" src="https://github.com/user-attachments/assets/b3ec1e65-9dfa-4d55-936f-fa32bc35ec5b" />
+  <img width="302" alt="image" src="https://github.com/user-attachments/assets/545b3b5c-4667-4996-b9bb-a609b80d2689" />
+  <img width="266" alt="image" src="https://github.com/user-attachments/assets/b3ec1e65-9dfa-4d55-936f-fa32bc35ec5b" />
 
 
 ✔ **Summary of Data Cleaning Process:**
@@ -137,7 +139,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 #### **📍 Trend 1: Users Are Most Active in the Morning & Evening**
 - **Peak activity**: **7-9 AM** & **6-9 PM**.
 - **Afternoon dip**: Users are less active during working hours.
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/2b405e59-332b-47f1-a55c-04e769ff0668" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/2b405e59-332b-47f1-a55c-04e769ff0668" />
 
 ✅ **Insights:**
 - Send **weekend workout reminders** to boost engagement.
@@ -146,7 +148,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 #### **📍 Trend 2: Higher Activity Leads to Better Sleep**
 - Users **with more than 5,000 steps/day** have better sleep patterns.
 - **Low activity (<5,000 steps/day) = inconsistent sleep**.
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/07acbf19-5dcf-4760-9bcc-30c983f7e3ab" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/07acbf19-5dcf-4760-9bcc-30c983f7e3ab" />
 
 ✅ **Insights:**
 - Market Bellabeat devices as **sleep improvement tools**.
@@ -154,7 +156,7 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 
 #### **📍 Trend 3: High Heart Rate Correlates with Intense Activity Periods**
 - **Morning & evening heart rate spikes** confirm **workout engagement**.
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/f3ddd282-c408-459e-8356-657e83891c97" />
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/f3ddd282-c408-459e-8356-657e83891c97" />
 
 ✅ **Insights:**
 - Promote **early morning fitness challenges**.
@@ -162,8 +164,10 @@ To merge easily, I first used Microsoft Excel. Then, for data cleaning and trans
 
 #### **📍 Trend 4: Weight Tracking Behavior Varies Among Users**
 - Users who **manually track weight** have **lower BMI** & are **more engaged**.
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/8f1ee515-1f56-420a-a6ef-0e23b3b25780" />
-<img width="476" alt="image" src="https://github.com/user-attachments/assets/978ef8a3-0968-40c2-9b6a-09837d07e054" />
+  
+  <img width="404" alt="image" src="https://github.com/user-attachments/assets/8f1ee515-1f56-420a-a6ef-0e23b3b25780" />
+  
+  <img width="476" alt="image" src="https://github.com/user-attachments/assets/978ef8a3-0968-40c2-9b6a-09837d07e054" />
 
 ✅ **Insights:**
 - Encourage **manual weight logging**.
