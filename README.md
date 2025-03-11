@@ -4,7 +4,7 @@
 ![Bellabeat logo](https://github.com/user-attachments/assets/8b00a978-b3f7-4685-8f19-29c80277a9e3)  
 
 ## 📌 Introduction  
-In this case study, I analyze historical smart device usage data from **Bellabeat**, a high-tech wellness company specializing in health-focused products for women.  
+In this case study, I analyze historical smart device usage data from *Bellabeat*, a high-tech wellness company specializing in health-focused products for women.  
 
 ### 🔍 **Objective**  
 The goal is to identify **key trends in consumer behavior** and provide **data-driven recommendations** to optimize Bellabeat’s marketing strategy.  
